@@ -1,0 +1,8 @@
+print(10 / 10)
+
+# Logical Operator
+
+x=10
+y=20
+print(x>y)
+print(x<y)
