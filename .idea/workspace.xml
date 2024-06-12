@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd741ddf-ba5b-42ae-94cb-d0d3982b45df" name="Changes" comment="Adding Lab001.py">
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab002.py" afterDir="false" />
+    <list default="true" id="fd741ddf-ba5b-42ae-94cb-d0d3982b45df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_05062024/Lab013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,23 +32,36 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ShruthiGN15"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ShruthiGN15&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ShruthiGN15/PyLearning3xATB.git",
-    "accountId": "632a059d-cb11-4c38-9a88-1b314c6949a3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ShruthiGN15/PyLearning3xATB.git&quot;,
+    &quot;accountId&quot;: &quot;632a059d-cb11-4c38-9a88-1b314c6949a3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="vcs:///Users/shruthi/PycharmProjects/PyLearning3xATB/Ex_05062024/Lab008.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///Users/shruthi/PycharmProjects/PyLearning3xATB/Ex_05062024/Lab009.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///Users/shruthi/PycharmProjects/PyLearning3xATB/Ex_05062024/Lab010.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///Users/shruthi/PycharmProjects/PyLearning3xATB/Ex_05062024/Lab011.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///Users/shruthi/PycharmProjects/PyLearning3xATB/Ex_05062024/Lab012.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///Users/shruthi/PycharmProjects/PyLearning3xATB/Ex_05062024/Lab013.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2hefd8HLeb49XrGa1kCPg1SVGAe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,10 +74,68 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab038.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Issue.Navigation"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
 }]]></component>
+  <component name="RunManager" selected="Python.Lab006">
+    <configuration name="Lab006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_05062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_05062024/Lab006.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab038" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_12062024/Lab038.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab006" />
+        <item itemvalue="Python.Lab038" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,11 +160,135 @@
       <option name="project" value="LOCAL" />
       <updated>1717962477611</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding Lab001.py">
+      <option name="closed" value="true" />
+      <created>1718083027919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718083027919</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day2- Variables and Data Types">
+      <option name="closed" value="true" />
+      <created>1718083191902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718083191902</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day2- Variables and Data Types">
+      <option name="closed" value="true" />
+      <created>1718084096316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718084096316</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day2- Variables and Data Types">
+      <option name="closed" value="true" />
+      <created>1718154397792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718154397792</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day2- Variables and Data Types">
+      <option name="closed" value="true" />
+      <created>1718154743530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718154743530</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="file:$PROJECT_DIR$/Ex_03062024/Lab001.py" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:/Users/shruthi/PycharmProjects/PyLearning3xATB/Ex_05062024" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/shruthi/PycharmProjects/PyLearning3xATB/Ex_05062024" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MY_COMMITS" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Lab001.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Lab001.py" />
+    <MESSAGE value="Day2- Variables and Data Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day2- Variables and Data Types" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_12062024/Lab038.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex_12062024/Lab038.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
