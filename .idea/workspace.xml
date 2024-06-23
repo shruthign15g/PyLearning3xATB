@@ -4,19 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd741ddf-ba5b-42ae-94cb-d0d3982b45df" name="Changes" comment="Day2- Variables and Data Types">
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_06062024/Lab024.py" afterDir="false" />
+    <list default="true" id="fd741ddf-ba5b-42ae-94cb-d0d3982b45df" name="Changes" comment="Task2">
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_18062024/Lab071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab090.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab091.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab092.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab093.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab094.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab095.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task_21062024/Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task_21062024/Count Vowels and Consonants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task_21062024/Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task_21062024/ReverseString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_21062024/Task_21062024/Triangle Star Pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12062024/FibonacciSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12062024/Leapyear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12062024/TriangleClassfier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab031.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Lab031.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_10062024/Lab032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_10062024/Lab032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_06062024/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_06062024/Lab020.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,33 +100,82 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab001.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab015.executor": "Run",
-    "Python.Lab016.executor": "Run",
-    "Python.Lab017.executor": "Run",
-    "Python.Lab018.executor": "Run",
-    "Python.Lab019.executor": "Run",
-    "Python.Lab020.executor": "Run",
-    "Python.Lab021.executor": "Run",
-    "Python.Lab022.executor": "Run",
-    "Python.Lab023.executor": "Run",
-    "Python.Lab038.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/shruthi/PycharmProjects/PyLearning3xATB",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Issue.Navigation"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Anagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count Vowels and Consonants.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FibonacciSequence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab038.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab049.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab085.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab086.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab087.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab088.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab091.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab092.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab093.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab094.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab095.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab096.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab097.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab098.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab099.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab100.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Leapyear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Triangle Star Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TriangleClassfier.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shruthi/PycharmProjects/PyLearning3xATB&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": []
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: []
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Lab023">
-    <configuration name="Lab019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.Anagrams">
+    <configuration name="Anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_06062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024/Task_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_06062024/Lab019.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task_21062024/Anagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Count Vowels and Consonants" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_06062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024/Task_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_06062024/Lab020.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task_21062024/Count Vowels and Consonants.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +228,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_06062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024/Task_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_06062024/Lab021.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task_21062024/Palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_06062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024/Task_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_06062024/Lab022.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task_21062024/ReverseString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Triangle Star Pattern" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_06062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_21062024/Task_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_06062024/Lab023.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_21062024/Task_21062024/Triangle Star Pattern.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab023" />
-        <item itemvalue="Python.Lab022" />
-        <item itemvalue="Python.Lab021" />
-        <item itemvalue="Python.Lab020" />
-        <item itemvalue="Python.Lab019" />
+        <item itemvalue="Python.Anagrams" />
+        <item itemvalue="Python.Count Vowels and Consonants" />
+        <item itemvalue="Python.ReverseString" />
+        <item itemvalue="Python.Palindrome" />
+        <item itemvalue="Python.Triangle Star Pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +367,39 @@
       <option name="project" value="LOCAL" />
       <updated>1718220826307</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Data Types">
+      <option name="closed" value="true" />
+      <created>1718254370731</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718254370731</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Literals">
+      <option name="closed" value="true" />
+      <created>1718519416864</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718519416864</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task1">
+      <option name="closed" value="true" />
+      <created>1718519582126</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718519582126</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task2">
+      <option name="closed" value="true" />
+      <created>1718519612864</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718519612864</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,7 +472,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Lab001.py" />
     <MESSAGE value="Day2- Variables and Data Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day2- Variables and Data Types" />
+    <MESSAGE value="Data Types" />
+    <MESSAGE value="Literals" />
+    <MESSAGE value="Task1" />
+    <MESSAGE value="Task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -374,6 +490,16 @@
           <url>file://$PROJECT_DIR$/ex_12062024/Lab038.py</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_21062024/Task_21062024/Anagrams.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex_21062024/Task_21062024/Anagrams.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
